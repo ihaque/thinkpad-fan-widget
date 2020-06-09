@@ -1,7 +1,0 @@
-GTK application indicator widget for core temperature and fanspeed on Thinkpads
-
-http://www.thinkwiki.org/wiki/How_to_control_fan_speed
-
-To install, run make.sh. Builds the setuid binary used to poke /proc/acpi/ibm/fan, and installs the required apt packages.
-
-To run, python widget.py
